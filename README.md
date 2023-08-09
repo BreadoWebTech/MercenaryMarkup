@@ -1,7 +1,7 @@
 ## MercenaryMarkup - HTML Generator for MercenaryLabs.net Articles
 MercenaryMarkup is a  HTML generator designed to simplify the process of creating well-formatted articles for MercenaryLabs.net.  goodbye to the pain of manually formatting HTML content and get to work efficently with this html generator.
 
-###Overview
+### Overview
 Creating articles with complex HTML structures can be time-consuming and error-prone. My HTML generator aims to allowing you to focus on your article's content while automatically generating the necessary HTML structure.
 
 ### Features
