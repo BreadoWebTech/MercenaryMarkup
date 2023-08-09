@@ -19,7 +19,7 @@ Use MercenaryMarkup: Embed your article's content within MercenaryMarkup syntax 
 Copy and Paste: Copy the generated HTML code and paste it into your MercenaryLabs.net article. It already generates a full modified Article HTML too, the only thing youd have to edit would be the Article name and creator!
 
 Usage Instructions
-You need: a file called input.mlm, which contains the "MercenaryLabs Markup", template.html ( the mercenarylabs article template, inlucded in this repo ), formatter.py ( the main program, that turns your mlm into the html document you need!)
+You need: a file called input.mlm, which contains the "MercenaryLabs Markup", template.html ( the mercenarylabs article template, inlucded in this repo ), HTMLformatter.py ( the main program, that turns your mlm into the html document you need!)
 
 if you are done, just run the python file! after generation it will tell you that it is done, and you can open the generated html file.
 
